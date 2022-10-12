@@ -44,3 +44,21 @@ body{
 #nav-bar ul li a:hover{
     color: antiquewhite;
 }
+
+.history{
+    display: flex;
+    flex-direction: column;
+    background-color: #4B2222;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.history h1{
+    color: #DA9A1D;
+}
+.history p{
+    padding-top: 20px;
+    font-size: 20px;
+    color: #DA9A1D;
+    text-align: center;
+}
